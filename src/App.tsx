@@ -208,7 +208,7 @@ function App() {
               <Button
                 target="_blank"
                 rel="noreferrer"
-                href="https://docs.google.com/document/d/1jrZOzEB6nzhz3gcBFC2PWYW4unoCI0-0/edit?usp=sharing&ouid=105986760324089167911&rtpof=true&sd=true"
+                href="https://docs.google.com/document/d/1aElgGg5XctsrNTpWR_FKGdNPsXd_ANnmQCPWJhWi7kg/edit?usp=sharing"
                 style={{
                   fontSize: 20
                 }}
