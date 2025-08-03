@@ -492,7 +492,7 @@ function App() {
                 color={"white"}
               >
                 <ProjectItem
-                  title='State Engine'
+                  title='React State Engine'
                   wip={true}
                   description="A React State Utility meant
                   to allow for a State along with configurable setters, 
@@ -501,16 +501,7 @@ function App() {
                   code, bundled with the state, ready to be provided to child components
                   to modify/read a central react state."
                   links={{
-                    githubLink: "https://github.com/destinyrose2358/State-Engine-React"
-                  }}
-                />
-                <ProjectItem
-                  title='Cardscapes'
-                  wip={true}
-                  description='A card-centered, turn-based, open-world, rpg game being built
-                  with React, as well as an implementation of the State Engine.'
-                  links={{
-                    githubLink: "https://github.com/destinyrose2358/cardscapes"
+                    githubLink: "https://github.com/destinyrose2358/react-state-engine"
                   }}
                 />
                 <ProjectItem
